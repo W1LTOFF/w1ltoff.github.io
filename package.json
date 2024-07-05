@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "start": "npx sass -w src/style/style.scss src/style/style.css"
+    "start": "npx sass -w style.scss style.css"
   },
   "author": "",
   "license": "ISC",
