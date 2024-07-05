@@ -1,0 +1,14 @@
+{
+  "name": "wiltsite",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx sass -w src/style/style.scss src/style/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.77.6"
+  }
+}
